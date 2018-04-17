@@ -188,7 +188,7 @@ body { background-color: #f8f8f8; }
 .filtrate_term li a { color: #777f86; font-size:14px; }
 .filtrate_term li.on { border-bottom: 2px solid #ff465a; }
 .filtrate_term li.on a { color: #ff465a; }
-.filtrate_term .arrow_up, .filtrate_term .arrow_down { width: 0px; height: 0px; font-size: 0; line-height: 0; border-color: #fff #fff #a5a5a5 #fff; border-width: 0px 5px 5px; display: inline-block; border-style: solid; position: relative; top: -6px; left: 5px; }
+.filtrate_term .arrow_up, .filtrate_term .arrow_down { width: 0px; height: 0px; font-size: 0; line-height: 0; border-color: #fff #fff #a5a5a5 #fff; border-width: 0px 5px 5px; display: inline-block; border-style: solid; position: relative; top: -6px; left: 9px; }
 .filtrate_term .arrow_down { border-color: #a5a5a5 #fff #fff #fff; border-width: 5px 5px 0px; position: relative; top: 2px; left: -5px; }
 .filtrate_term .active_up { border-color: #fff #fff #fcbb00 #fff; }
 .filtrate_term .active_down { border-color: #fcbb00 #fff #fff #fff; }
